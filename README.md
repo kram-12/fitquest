@@ -104,7 +104,7 @@ Follow these steps to set up and run the project locally.
 
 5. Open your browser and navigate to:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ---

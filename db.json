@@ -35,15 +35,6 @@
       "repetitions": "10",
       "timeSpent": "20 minutes",
       "caloriesBurnt": "120"
-    },
-    {
-      "id": "126d",
-      "name": "Loop It Up",
-      "description": "A full-body exercise with dance steps",
-      "sets": "10",
-      "repetitions": "2",
-      "timeSpent": "20 minutes",
-      "caloriesBurnt": "500"
     }
   ]
 }
