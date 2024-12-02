@@ -99,7 +99,7 @@ Follow these steps to set up and run the project locally.
 4. **Start the React App**
    Start the frontend application.
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Open your browser and navigate to:
