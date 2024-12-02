@@ -1,0 +1,49 @@
+{
+  "workouts": [
+    {
+      "id": "1",
+      "name": "Push Ups",
+      "description": "A basic upper body exercise.",
+      "sets": 3,
+      "repetitions": 15,
+      "timeSpent": "10 minutes",
+      "caloriesBurnt": 50
+    },
+    {
+      "id": "2",
+      "name": "Squats",
+      "description": "A lower body workout focusing on quads and glutes.",
+      "sets": 1,
+      "repetitions": 12,
+      "timeSpent": "20 minutes",
+      "caloriesBurnt": 100
+    },
+    {
+      "id": "4",
+      "name": "Burpees",
+      "description": "A full-body exercise to build strength and endurance.",
+      "sets": 3,
+      "repetitions": 10,
+      "timeSpent": "15 minutes",
+      "caloriesBurnt": 80
+    },
+    {
+      "id": "5",
+      "name": "Plank",
+      "description": "A upper body workout focusing on legs and balance.",
+      "sets": "3",
+      "repetitions": "10",
+      "timeSpent": "20 minutes",
+      "caloriesBurnt": "120"
+    },
+    {
+      "id": "126d",
+      "name": "Loop It Up",
+      "description": "A full-body exercise with dance steps",
+      "sets": "10",
+      "repetitions": "2",
+      "timeSpent": "20 minutes",
+      "caloriesBurnt": "500"
+    }
+  ]
+}
