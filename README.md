@@ -168,8 +168,8 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ### **Contact**
 
 For questions or suggestions, feel free to contact:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: kalyanram.p.12@gmail.com
+- **GitHub**: [kram-12](https://github.com/kram-12)
 
 ---
 
