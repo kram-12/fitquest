@@ -14,7 +14,7 @@ FitQuest is a React-based fitness tracking web application designed to help user
 - **Search Functionality**: Quickly search for specific workouts by name.
 - **Fitness Analysis**: Visualize fitness insights, such as average time spent, calories burnt, and top performances.
 - **Responsive UI**: Designed for a smooth experience across devices.
-- **Login and Signup Pages**: User authentication for secure access.
+- **Login and Signup Pages**: User authentication for secure access (Hard-Coded).
 - **React Router Integration**: Enables dynamic page navigation.
 - **Backend**: Powered by a JSON Web Server for handling data.
 
